@@ -66,5 +66,5 @@ The following CSV files are included for demonstration purposes:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ajbsarmi/pyspark_tutorial_Krish_Naik/tree/main
+   cd pyspark_tutorial_Krish_Naik

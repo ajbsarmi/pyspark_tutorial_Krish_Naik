@@ -108,10 +108,3 @@ The following CSV files are included for demonstration purposes:
 ## Contributing
 
 Contributions are welcome! If you have ideas for new tutorials or improvements to existing ones, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-With these instructions, users can quickly set up the necessary environment and start working with your PySpark tutorials. Let me know if you'd like to make any further adjustments!
